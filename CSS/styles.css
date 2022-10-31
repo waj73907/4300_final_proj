@@ -1,0 +1,44 @@
+.gallery {
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.top-bar {
+  margin: 15%;  
+  margin-left: 35%;
+  flex: auto;
+  display: flex;
+}
+
+
+.gallery-icon {
+    width: 5%;
+    height: auto;
+    float: left;
+    margin-left: -1%
+}
+
+.menu-icon div {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+    
+}
+.menu-icon {
+    float: right;
+    margin-left: 400px;
+}
+
+.separator {
+    width: 30%;
+    margin-top: -15%
+}
+    
+
+
+
+
+
